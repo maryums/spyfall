@@ -334,5 +334,17 @@ locations = [
       'locations.roles.world war ii squad.imprisoned nazi',
       'locations.roles.world war ii squad.soldier'
     ]
+  },
+{
+    name: 'locations.pakistani dinner party',
+    roles: [
+      'locations.roles.corporate party.religious uncle',
+      'locations.roles.corporate party.flustered host',
+      'locations.roles.corporate party.unwanted guest',
+      'locations.roles.corporate party.hyper kid',
+      'locations.roles.corporate party.uncomfortable white spouse',
+      'locations.roles.corporate party.cleaning lady',
+      'locations.roles.corporate party.show off aunty guest'
+    ]
   }
 ];
