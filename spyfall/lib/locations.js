@@ -288,15 +288,15 @@ locations = [
     ]
   },
   {
-    name: 'locations.supermarket',
+    name: 'locations.walmart',
     roles: [
-      'locations.roles.supermarket.cashier',
-      'locations.roles.supermarket.butcher',
-      'locations.roles.supermarket.janitor',
-      'locations.roles.supermarket.security guard',
-      'locations.roles.supermarket.food sample demonstrator',
-      'locations.roles.supermarket.shelf stocker',
-      'locations.roles.supermarket.customer'
+      'locations.roles.walmart.cashier',
+      'locations.roles.walmart.butcher',
+      'locations.roles.walmart.janitor',
+      'locations.roles.walmart.security guard',
+      'locations.roles.walmart.food sample demonstrator',
+      'locations.roles.walmart.shelf stocker',
+      'locations.roles.walmart.customer'
     ]
   },
   {
